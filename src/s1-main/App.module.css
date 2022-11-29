@@ -1,0 +1,19 @@
+.App {
+    --header_height: 60px;
+}
+
+.hw {
+
+}
+
+.dialog{
+    display: grid;
+}
+
+.hwTitle {
+    font-size: 30px;
+    text-align: center;
+    line-height: 80px;
+    vertical-align: center;
+    height: 80px;
+}
